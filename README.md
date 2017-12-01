@@ -7,6 +7,10 @@ The aim of this session is to get you attuned to the basics of writing in LaTeX 
 
 We've yet to customize these slides for BioData Club, as they already do the job of introducing learners to LaTeX quite well. There is enough material in these slides for multiple workshops, but we'll at least aim to get through **The Basics**, and hopefully some of part 2 on Structured Documents.  If you're already familiar with writing in LaTex, you should skip forward - also we'll have advanced users on hand to brainstorm and answer questions. 
 
+In our session, we'll access the the slides from [here](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1#.WiHWDrQ-eqA)
+
+Links to indvidual lesson files are below.
+
 1. [The Basics](http://jdleesmiller.github.io/latex-course/en/part1.pdf): ideas, syntax, equations, environments, packages
 
 1. [Structed Documents &
