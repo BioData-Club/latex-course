@@ -1,11 +1,11 @@
 OHSU BioData Club:  LaTex and Collaborative Writing Software Introduction
 ============
 The slides for this workshop and their LaTeX source
-code were adapted from [this github repository](https://github.com/jdleesmiller/latex-course) under a permissive MIT license.
+code were forked from [this github repository](https://github.com/jdleesmiller/latex-course) under a permissive MIT license.
 
 The aim of this session is to get you attuned to the basics of writing in LaTeX as quickly as possible. The material is presented as a set of examples.  Broader concepts and techniques are explained as they arise. Each part includes exercises that can be completed on [Overleaf](https://www.overleaf.com), a free online LaTeX editor, so **you don't have to worry about getting LaTeX and related tools installed on your computers.**
 
-There is actually enough material in these slides for multiple workshops, but we'll at least aim to get through **The Basics**, and hopefully some of part 2 on Structured Documents.  If you're already familiar with writing in LaTex, you should skip forward.
+We've yet to customize these slides for BioData Club, as they already do the job of introducing learners to LaTeX quite well. There is enough material in these slides for multiple workshops, but we'll at least aim to get through **The Basics**, and hopefully some of part 2 on Structured Documents.  If you're already familiar with writing in LaTex, you should skip forward - also we'll have advanced users on hand to brainstorm and answer questions. 
 
 1. [The Basics](http://jdleesmiller.github.io/latex-course/en/part1.pdf): ideas, syntax, equations, environments, packages
 
@@ -17,7 +17,7 @@ tikz.
 
 Feel free to use however you like --- contributions welcome!
 
-Development
+Further Slide Development...for down the road
 -----------
 
 You may need to install some extra LaTeX packages and system packages in order
@@ -55,7 +55,7 @@ License
 
 The slides and source are released under the MIT license. See the LICENSE file.
 
-Credits
+Original Credits
 -------
 
 * Diana A -- found that exercise links had broken
