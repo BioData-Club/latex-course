@@ -19,6 +19,12 @@ More](http://jdleesmiller.github.io/latex-course/en/part2.pdf): titles, sections
 1. [Not Just Papers: Presentations & More](http://jdleesmiller.github.io/latex-course/en/part3.pdf): recap exercise, presentations with beamer, drawings with
 tikz.
 
+Other useful links:
+
+[LaTeX project site](https://www.latex-project.org/)
+[Glossary of Commands](https://en.wikibooks.org/wiki/LaTeX/Command_Glossary)
+
+
 Feel free to use however you like --- contributions welcome!
 
 Further Slide Development...for down the road
