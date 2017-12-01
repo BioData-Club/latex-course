@@ -22,6 +22,7 @@ tikz.
 Other useful links:
 
 [LaTeX project site](https://www.latex-project.org/)
+
 [Glossary of Commands](https://en.wikibooks.org/wiki/LaTeX/Command_Glossary)
 
 
