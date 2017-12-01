@@ -3,9 +3,9 @@ OHSU BioData Club:  LaTex and Collaborative Writing Software Introduction
 The slides for this workshop and their LaTeX source
 code were adapted from [this github repository](https://github.com/jdleesmiller/latex-course) under a permissive MIT license.
 
-The aim of this session is to get you attuned to the basics of writing in LaTeX as quickly as possible. The material is presented as a set of examples.  Broader concepts and techniques are explained as they arise. Each part includes exercises that can be completed on [Overleaf](https://www.overleaf.com), a free online LaTeX editor, so you **don't have to worry about getting LaTeX and related tools installed on your computers.**
+The aim of this session is to get you attuned to the basics of writing in LaTeX as quickly as possible. The material is presented as a set of examples.  Broader concepts and techniques are explained as they arise. Each part includes exercises that can be completed on [Overleaf](https://www.overleaf.com), a free online LaTeX editor, so **you don't have to worry about getting LaTeX and related tools installed on your computers.**
 
-There is actually enough material in these slides for three workshops, but we'll at least aim to get through **The Basics** today, and hopefully some of part 2 on Structured Documents.  IF you're already familiar with writing in LaTex, you should skip forward.
+There is actually enough material in these slides for multiple workshops, but we'll at least aim to get through **The Basics**, and hopefully some of part 2 on Structured Documents.  If you're already familiar with writing in LaTex, you should skip forward.
 
 1. [The Basics](http://jdleesmiller.github.io/latex-course/en/part1.pdf): ideas, syntax, equations, environments, packages
 
